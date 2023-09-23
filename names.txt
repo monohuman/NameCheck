@@ -1,0 +1,7 @@
+Paste all the names you want to check availability for here.
+Format:
+
+NAME
+OTHERNAME
+OTHEROTHERNAME
+...
