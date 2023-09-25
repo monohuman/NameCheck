@@ -24,4 +24,4 @@ python script.py
 `4.` Open *available.txt* to find the availible usernames, or read them in the terminal.
 
 # Help
-#### If your reading this and intend to copy this code, go ahead, I don't really care. If you give me credit, thats up to you. If you have errors, you can edit this code if you know python, or ask me. My discord is **monohuman**.
+If you have errors, you can edit this code or ask me. My discord server is: https://discord.gg/rqjE7yvtZw
