@@ -9,18 +9,19 @@ ANOTHERUSERNAME
 and the bot will (after completing) put all the availible usernames in another text file (*available.txt*)
 
 # Installation
-`0.` The installation is super simple. You cannot mess this up, it's too easy.
+The installation is super simple. You cannot mess this up, it's too easy.
 
 `1.` Click the green **<> Code** button, and click **Download ZIP**. Then unzip the zip that downloads, and you will be left with a folder named **mc.namecheck-main** (or something like that).
 
 `2.` Open the folder, and open the **names.txt** folder. Then paste (in the format shown in the file) or replace the file with the names you want to check the availibility of (remember to rename it *names.txt*)
 
-`3.` Open terminal, and enter:
+`3.` Open terminal, and enter the following lines (1 line at a time):
 ```
+pip install requests
 cd (drag the folder to this line, or type to file path to the folder)
 python script.py
 ```
-`3.` Open *available.txt* to find the availible usernames, or read them in the terminal.
+`4.` Open *available.txt* to find the availible usernames, or read them in the terminal.
 
 # Help
 #### If your reading this and intend to copy this code, go ahead, I don't really care. If you give me credit, thats up to you. If you have errors, you can edit this code if you know python, or ask me. My discord is **monohuman**.
